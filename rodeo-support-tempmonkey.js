@@ -3,7 +3,7 @@
 // @namespace    https://www.amazon.com
 // @version      0.0.1
 // @description  A Rodeo Supportscript for PAD1
-// @author       riemas@untitled:Untitled-2
+// @author       riemas@
 // @credits      dhhollst@
 // @include      *https://rodeo-dub.amazon.com/PAD1/*
 // @updateURL    https://github.com/sriem/PAD1_RodeoSupport/raw/master/rodeo-support-tempmonkey.js

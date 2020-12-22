@@ -74,6 +74,20 @@
     });
 
 
+    //--- Use jQuery to activate the dialog buttons.
+        $("#submitBtn").click(function () {
+    var targetCount = $("#targetCount").val();
+    var headCount = $("#headCount").val();
+    var avarage = parseInt(targetCount, 10) * parseInt(headCount, 10);
+
+    $("#targetText").text("Target is: " + avarage);
+});
+
+$("#gmCloseDlgBtn").click(function () {
+    $("#gmPopupContainer").hide();
+});
+
+
 
     window.rodeoHelper = {
         isReady(successCallBack) {
