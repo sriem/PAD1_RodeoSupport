@@ -1,0 +1,30 @@
+<style type="text/css">
+    #rodeo-helper-app-app div,
+    #rodeo-helper-app-app span,
+    #rodeo-helper-app-app p,
+    #rodeo-helper-app-app h1,
+    #rodeo-helper-app-app h2,
+    #rodeo-helper-app-app h3,
+    #rodeo-helper-app-app h4,
+    #rodeo-helper-app-app a,
+    #rodeo-helper-app-app img,
+    #rodeo-helper-app-app b {
+        color: #fff;
+        font-family: HelveticaNeue, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+        font-size: 12px;
+        box-sizing: border-box;
+        text-align: left;
+        position: fixed;
+        top: 0;
+        right: 0;
+        margin: 1ex;
+        padding: 1em;
+        z-index: 6666;
+        opacity: 0.9;
+        border-radius: 25px;
+        border: 2px solid #73AD21;
+        padding: 20px;
+        width: 500px;
+        height: 350px;
+    }
+</style>
